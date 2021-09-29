@@ -68,9 +68,11 @@ packages:
   jitsi_meet_platform_interface:
     dependency: "direct main"
     description:
-      path: "../jitsi_meet_platform_interface"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: a0ad16aacd166b0d6beeed63b87345d234261106
+      url: "https://github.com/cj123195/flutter_jitsi_meet_platform_interface.git"
+    source: git
     version: "2.0.0"
   js:
     dependency: "direct main"
